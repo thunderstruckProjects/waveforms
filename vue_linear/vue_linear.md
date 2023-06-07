@@ -26,16 +26,16 @@ This waveform has been found in the VuEngine project. You can find it here: http
                                 
                                 
                                 
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
 ################################
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
                                 
                                 
                                 
@@ -56,46 +56,46 @@ This waveform has been found in the VuEngine project. You can find it here: http
                                 
                                 
                                 
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
 ################################
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
                                 
                                 
                                 
